@@ -1,0 +1,25 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Практика Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wkmpw/git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wkmpw/git/issues"
+  },
+  "homepage": "https://github.com/Wkmpw/git#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.1",
+    "http": "0.0.1-security"
+  }
+}
